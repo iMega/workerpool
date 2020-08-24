@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/imega/workerpool"
+	"github.com/iMega/workerpool"
 )
 
 var ErrFailedAssert = errors.New("failed to assert value form request")
