@@ -1,3 +1,3 @@
-module github.com/imega/workerpool
+module github.com/iMega/workerpool
 
 go 1.13
